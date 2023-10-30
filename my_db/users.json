@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "620711eefaa8ef775276b567"
+  },
+  "first_name": "admin",
+  "surname": "admin",
+  "email": "admin@gmail.com",
+  "password": "admin",
+  "confirm_password": "admin"
+},{
+  "_id": {
+    "$oid": "6207126bfaa8ef775276b568"
+  },
+  "first_name": "guest",
+  "surname": "guest",
+  "email": "guest",
+  "password": "guest",
+  "confirm_password": "guest",
+  "cart": [],
+  "favorites": [],
+  "orders": []
+},{
+  "_id": {
+    "$oid": "6207129cfaa8ef775276b569"
+  },
+  "first_name": "peggy",
+  "surname": "vitsa",
+  "email": "peggyvitsa@gmail.com",
+  "password": "111",
+  "confirm_password": "111",
+  "cart": [
+    {
+      "img": "images/rustic/pic4.jpg",
+      "name": "CACTUS",
+      "price": "7",
+      "quantity": "1",
+      "colour": "white"
+    },
+    {
+      "img": "images/rustic/pic6.jpg",
+      "name": "KNOTS",
+      "price": "5",
+      "quantity": "1",
+      "colour": "white"
+    },
+    {
+      "img": "images/rustic/pic1.jpg",
+      "name": "BUBBLE CUBE",
+      "price": "6",
+      "quantity": "1",
+      "colour": "white"
+    }
+  ],
+  "favorites": [
+    {
+      "_id": {
+        "$oid": "6202b9c0d3fca8811b669ad2"
+      },
+      "name": "BABY ANGEL",
+      "price": "24",
+      "availability": "30",
+      "collection": "SILHOUETTE",
+      "img": "images/silhouette/pic8.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "6202b231d3fca8811b669ac3"
+      },
+      "name": "BUBBLE CUBE",
+      "price": "6",
+      "availability": "30",
+      "collection": "RUSTIC",
+      "img": "images/rustic/pic1.jpg"
+    }
+  ],
+  "orders": [
+    [
+      {
+        "user_email": "peggyvitsa@gmail.com"
+      },
+      {
+        "name": "LOVERS",
+        "price": "12",
+        "quantity": "2",
+        "colour": "beige"
+      },
+      {
+        "name": "EMOTIONS REVEALED",
+        "price": "27",
+        "quantity": "1",
+        "colour": "white"
+      },
+      {
+        "total_price": 39
+      }
+    ],
+    [
+      {
+        "user_email": "peggyvitsa@gmail.com"
+      },
+      {
+        "name": "BUBBLE CUBE",
+        "price": "6",
+        "quantity": "2",
+        "colour": "sage"
+      },
+      {
+        "name": "VENUS",
+        "price": "25",
+        "quantity": "2",
+        "colour": "white"
+      },
+      {
+        "total_price": 62
+      }
+    ],
+    [
+      {
+        "user_email": "peggyvitsa@gmail.com"
+      },
+      {
+        "name": "KNOTS",
+        "price": "5",
+        "quantity": "3",
+        "colour": "lilac"
+      },
+      {
+        "name": "ARTEMIS",
+        "price": "28",
+        "quantity": "1",
+        "colour": "sage"
+      },
+      {
+        "name": "PILLAR",
+        "price": "13",
+        "quantity": "1",
+        "colour": "white"
+      },
+      {
+        "total_price": 56
+      }
+    ],
+    [
+      {
+        "user_email": "peggyvitsa@gmail.com"
+      },
+      {
+        "name": "EMOTIONS REVEALED",
+        "price": "27",
+        "quantity": "1",
+        "colour": "white"
+      },
+      {
+        "name": "FEMININE BODY",
+        "price": "22",
+        "quantity": "2",
+        "colour": "beige"
+      },
+      {
+        "total_price": 71
+      }
+    ]
+  ]
+},{
+  "_id": {
+    "$oid": "620d1cea271b0000eb0067c9"
+  },
+  "first_name": "john",
+  "surname": "doe",
+  "email": "johndoe@gmail.com",
+  "password": "222",
+  "confirm_password": "222",
+  "cart": [],
+  "favorites": [
+    {
+      "_id": {
+        "$oid": "6202b256d3fca8811b669ac5"
+      },
+      "name": "LOVERS",
+      "price": "12",
+      "availability": "30",
+      "collection": "RUSTIC",
+      "img": "images/rustic/pic3.jpg"
+    }
+  ],
+  "orders": [
+    [
+      {
+        "user_email": "johndoe@gmail.com"
+      },
+      {
+        "name": "LOVERS",
+        "price": "12",
+        "quantity": "1",
+        "colour": "white"
+      },
+      {
+        "name": "CACTUS",
+        "price": "7",
+        "quantity": "2",
+        "colour": "sage"
+      },
+      {
+        "total_price": 26
+      }
+    ]
+  ]
+}]

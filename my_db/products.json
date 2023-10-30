@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "6202b231d3fca8811b669ac3"
+  },
+  "name": "BUBBLE CUBE",
+  "price": "6",
+  "availability": "30",
+  "collection": "RUSTIC",
+  "img": "images/rustic/pic1.jpg"
+},{
+  "_id": {
+    "$oid": "6202b244d3fca8811b669ac4"
+  },
+  "name": "PILLAR",
+  "price": "13",
+  "availability": "30",
+  "collection": "RUSTIC",
+  "img": "images/rustic/pic2.jpg"
+},{
+  "_id": {
+    "$oid": "6202b256d3fca8811b669ac5"
+  },
+  "name": "LOVERS",
+  "price": "12",
+  "availability": "30",
+  "collection": "RUSTIC",
+  "img": "images/rustic/pic3.jpg"
+},{
+  "_id": {
+    "$oid": "6202b277d3fca8811b669ac6"
+  },
+  "name": "CACTUS",
+  "price": "7",
+  "availability": "30",
+  "collection": "RUSTIC",
+  "img": "images/rustic/pic4.jpg"
+},{
+  "_id": {
+    "$oid": "6202b2c5d3fca8811b669ac7"
+  },
+  "name": "HIVES",
+  "price": "10",
+  "availability": "30",
+  "collection": "RUSTIC",
+  "img": "images/rustic/pic5.jpg"
+},{
+  "_id": {
+    "$oid": "6202b2ded3fca8811b669ac8"
+  },
+  "name": "KNOTS",
+  "price": "5",
+  "availability": "30",
+  "collection": "RUSTIC",
+  "img": "images/rustic/pic6.jpg"
+},{
+  "_id": {
+    "$oid": "6202b314d3fca8811b669ac9"
+  },
+  "name": "SEA SHELLS",
+  "price": "9",
+  "availability": "30",
+  "collection": "RUSTIC",
+  "img": "images/rustic/pic7.jpg"
+},{
+  "_id": {
+    "$oid": "6202b37cd3fca8811b669aca"
+  },
+  "name": "TWIST",
+  "price": "11",
+  "availability": "30",
+  "collection": "RUSTIC",
+  "img": "images/rustic/pic8.jpg"
+},{
+  "_id": {
+    "$oid": "6202b3c7d3fca8811b669acb"
+  },
+  "name": "EMOTIONS REVEALED",
+  "price": "27",
+  "availability": "30",
+  "collection": "SILHOUETTE",
+  "img": "images/silhouette/pic1.jpg"
+},{
+  "_id": {
+    "$oid": "6202b435d3fca8811b669acc"
+  },
+  "name": "FEMININE BODY",
+  "price": "22",
+  "availability": "30",
+  "collection": "SILHOUETTE",
+  "img": "images/silhouette/pic2.jpg",
+  "colour": "white",
+  "quantity": "1"
+},{
+  "_id": {
+    "$oid": "6202b481d3fca8811b669acd"
+  },
+  "name": "VENUS",
+  "price": "25",
+  "availability": "30",
+  "collection": "SILHOUETTE",
+  "img": "images/silhouette/pic3.jpg"
+},{
+  "_id": {
+    "$oid": "6202b590d3fca8811b669ace"
+  },
+  "name": "DAVID",
+  "price": "28",
+  "availability": "30",
+  "collection": "SILHOUETTE",
+  "img": "images/silhouette/pic4.jpg",
+  "colour": "white",
+  "quantity": "1"
+},{
+  "_id": {
+    "$oid": "6202b6a3d3fca8811b669acf"
+  },
+  "name": "ARTEMIS",
+  "price": "28",
+  "availability": "30",
+  "collection": "SILHOUETTE",
+  "img": "images/silhouette/pic5.jpg",
+  "quantity": "1",
+  "colour": "white"
+},{
+  "_id": {
+    "$oid": "6202b79ad3fca8811b669ad0"
+  },
+  "name": "US",
+  "price": "20",
+  "availability": "30",
+  "collection": "SILHOUETTE",
+  "img": "images/silhouette/pic6.jpg",
+  "colour": "white",
+  "quantity": "1"
+},{
+  "_id": {
+    "$oid": "6202b899d3fca8811b669ad1"
+  },
+  "name": "REINE DES FLAMMES",
+  "price": "23",
+  "availability": "30",
+  "collection": "SILHOUETTE",
+  "img": "images/silhouette/pic7.jpg"
+},{
+  "_id": {
+    "$oid": "6202b9c0d3fca8811b669ad2"
+  },
+  "name": "BABY ANGEL",
+  "price": "24",
+  "availability": "30",
+  "collection": "SILHOUETTE",
+  "img": "images/silhouette/pic8.jpg"
+}]

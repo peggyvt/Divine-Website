@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "620717d4061800003a0025cb"
+  },
+  "order": [
+    {
+      "user_email": "peggyvitsa@gmail.com"
+    },
+    {
+      "name": "BUBBLE CUBE",
+      "price": "6",
+      "quantity": "2",
+      "colour": "sage"
+    },
+    {
+      "name": "VENUS",
+      "price": "25",
+      "quantity": "2",
+      "colour": "white"
+    },
+    {
+      "total_price": 62
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "620cffe5271b0000eb0067c5"
+  },
+  "order": [
+    {
+      "user_email": "peggyvitsa@gmail.com"
+    },
+    {
+      "name": "EMOTIONS REVEALED",
+      "price": "27",
+      "quantity": "1",
+      "colour": "white"
+    },
+    {
+      "name": "FEMININE BODY",
+      "price": "22",
+      "quantity": "2",
+      "colour": "beige"
+    },
+    {
+      "total_price": 71
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "620d219e271b0000eb0067ca"
+  },
+  "order": [
+    {
+      "user_email": "johndoe@gmail.com"
+    },
+    {
+      "name": "LOVERS",
+      "price": "12",
+      "quantity": "1",
+      "colour": "white"
+    },
+    {
+      "name": "CACTUS",
+      "price": "7",
+      "quantity": "2",
+      "colour": "sage"
+    },
+    {
+      "total_price": 26
+    }
+  ]
+}]
